@@ -1,33 +1,49 @@
-# Installation
+# Documentation
 
-https://code.claude.com/docs
+## Installation
 
-# claude command CLI
+<https://code.claude.com/docs>
 
-https://code.claude.com/docs/en/mcp
+## claude --help command CLI
 
-https://code.claude.com/docs/en/cli-reference
+<https://code.claude.com/docs/en/cli-reference>
 
-# Telegram Channel Setup
+## Telegram Channel Setup
 
-Reference: https://code.claude.com/docs/en/channels#telegram
+Reference: <https://code.claude.com/docs/en/channels#telegram>
 
-# API
+## API
 
-https://platform.claude.com/docs/en/home
-
-
-# MCP Servers
-
-https://modelcontextprotocol.io/examples
+<https://platform.claude.com/docs/en/home>
 
 
-# Core Concepts
+## MCP Servers
 
-https://code.claude.com/docs/en/how-claude-code-works#stay-safe-with-checkpoints-and-permissions
+<https://code.claude.com/docs/en/mcp>
 
-# Status Line
+<https://modelcontextprotocol.io/examples>
 
 
-https://code.claude.com/docs/en/statusline.md
+## Core Concepts
 
+<https://code.claude.com/docs/en/how-claude-code-works#stay-safe-with-checkpoints-and-permissions>
+
+## Status Line
+
+
+<https://code.claude.com/docs/en/statusline.md>
+
+/statusline describe what you want it to look like
+
+## CLAUDE.md files, Auto Memory
+
+<https://code.claude.com/docs/en/memory>
+
+.md Imports:
+
+<https://code.claude.com/docs/en/memory#import-additional-files>
+
+
+## SKILL.md
+
+<https://code.claude.com/docs/en/skills#frontmatter-reference>
