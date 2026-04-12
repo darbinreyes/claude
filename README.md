@@ -1,1 +1,1 @@
-# Notes on how to use claude so I can more easily translate to copilot
+# Notes on how to use claude
