@@ -117,3 +117,4 @@ This way:
 ## Explore the Context Window <https://code.claude.com/docs/en/context-window>
 
 - The context window = everything claude knows about your `**session**`.
+
