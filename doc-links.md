@@ -47,3 +47,5 @@ Reference: <https://code.claude.com/docs/en/channels#telegram>
 ## SKILL.md
 
 <https://code.claude.com/docs/en/skills#frontmatter-reference>
+
+foo test
