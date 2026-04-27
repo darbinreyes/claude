@@ -48,4 +48,3 @@ Reference: <https://code.claude.com/docs/en/channels#telegram>
 
 <https://code.claude.com/docs/en/skills#frontmatter-reference>
 
-foo test
