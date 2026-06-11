@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 # telegram_bot
 
 This project is a reference workspace for running Claude Code with a Telegram channel plugin, allowing Claude to receive and respond to messages via a personal Telegram bot.
@@ -51,4 +49,3 @@ Track jokes told via Telegram so they are not repeated.
 ## Gitignored
 
 - `.claude/settings.local.json` — machine-specific permission grants; do not commit
->>>>>>> Stashed changes
